@@ -1,0 +1,48 @@
+{
+  "type": "folder",
+  "name": "animals",
+  "path": "/animals",
+  "creation_date": "21/03/2021",
+  "modify_date": "22/03/2021",
+  "children": [
+    {
+      "type": "folder",
+      "name": "cat",
+      "path": "/animals/cat",
+      "creation_date": "21/03/2021",
+      "modify_date": "22/03/2021",
+      "children": [
+        {
+          "type": "folder",
+          "name": "images",
+          "path": "/animals/cat/images",
+          "creation_date": "21/03/2021",
+          "modify_date": "22/03/2021",
+          "children": [
+            {
+              "type": "file",
+              "name": "cat001.jpg",
+              "path": "/animals/cat/cat001.jpg",
+              "creation_date": "21/03/2021",
+              "modify_date": "22/03/2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "name": "dog",
+      "path": "/animals/dog",
+      "creation_date": "21/03/2021",
+      "modify_date": "22/03/2021"
+    },
+    {
+      "type": "image",
+      "name": "bird.png",
+      "path": "/animals/bird",
+      "creation_date": "21/03/2021",
+      "modify_date": "22/03/2021"
+    }
+  ]
+}
